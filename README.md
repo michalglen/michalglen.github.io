@@ -8,3 +8,17 @@ Site builded using Jekyll & Jekyll Now fork
 > November, 2017: :sparkles:First version up and running :sparkles: 
 
 # ASAP Coder
+
+
+
+
+# TODO
+* add coments to css files
+* folders for images
+* https turned on
+* tags visible for each post
+* tag index
+* clickable iamges to posts
+* limit number of posts per page
+* add comments ( disqus )
+* add google analytics

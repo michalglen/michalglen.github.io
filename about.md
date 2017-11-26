@@ -13,4 +13,5 @@ Developer & fitness fan
 ### Contact me
 
 hit me up by email or any other way
-[EMAIL ME :)](mailto:michal.adam.glen@gmail.com)
+
+[EMAIL ME](mailto:michal.adam.glen@gmail.com)

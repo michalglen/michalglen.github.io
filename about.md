@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Some information about ~~you~~ **me**!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Developer & fitness fan
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+hit me up by email or any other way
+[EMAIL ME :)](mailto:michal.adam.glen@gmail.com)

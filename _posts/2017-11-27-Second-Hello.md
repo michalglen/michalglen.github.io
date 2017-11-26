@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 'Second Hello, becasue why not'
+title: 'Second Hello, because why not'
+image: /images/pexels-photo-221027.jpeg
 tags:
 - Jekyll
 ---

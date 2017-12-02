@@ -18,7 +18,7 @@ Site builded using Jekyll & Jekyll Now fork
 * https turned on
 * tags visible for each post
 * tag index
-* clickable iamges to posts
+* clickable images to posts
 * limit number of posts per page
 * add comments ( disqus )
 * add google analytics

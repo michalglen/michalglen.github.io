@@ -19,16 +19,16 @@ Follow by its [**reddit**](https://www.reddit.com/r/adventofcode/) description:
 During the current month, all of my solutions to these puzzles will be on [**my github**](https://github.com/michalglen/AoC_2017)
 and unlike last year (ah python one-liners) this time, I will try to get all solution written in modern C++ (11 and forward).
 For quick unit test (gtest is too big) I used small helper which provide me with nice colorful output :)
-```C++
+```c++
 template<typename V, typename F, typename... P>
 void testEQ(V v, F f, P&& ... p){
-	if (v == f(p...))
-	{
-		cout << "\033[1;32mPASSED\033[0m" << endl;
-	}
-	else {
-		cout << "\033[1;31mFAILED\033[0m" << endl;
-	}
+    if (v == f(p...))
+    {
+        cout << "\033[1;32mPASSED\033[0m" << endl;
+    }
+    else {
+        cout << "\033[1;31mFAILED\033[0m" << endl;
+    }
 }
 ```
 For anyone that has rivalry in his blood & wants to be high on [**leaderboard**](https://adventofcode.com/2017/leaderboard) few tips
@@ -36,6 +36,7 @@ For anyone that has rivalry in his blood & wants to be high on [**leaderboard**]
 * get familiar with your preferred language standard library
 * prepare helper functions for file opening, testing etc.
 * avoid reading as much of the flavor text as possible & focus on examples (although read them later:))
+
 and most important one
 * practice makes perfect.
 

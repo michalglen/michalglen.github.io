@@ -11,7 +11,7 @@ Some information about ~~you~~ **me**!
 Developer & fitness fan
 
 ### Contact me
-
-hit me up by email or any other way
+Hit me up by email or any other way.
+I'm also taking warmly posts ideas.
 
 [EMAIL ME](mailto:michal.adam.glen@gmail.com)

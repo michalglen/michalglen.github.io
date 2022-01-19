@@ -14,4 +14,4 @@ Developer & fitness fan
 Hit me up by email or any other way.
 I'm also taking warmly posts ideas.
 
-[EMAIL ME](mailto:michal.adam.glen@gmail.com)
+
